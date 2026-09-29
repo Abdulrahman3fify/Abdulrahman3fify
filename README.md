@@ -33,6 +33,7 @@ My work spans building apps from scratch, leading engineering teams, migrating l
 | **[Vodafone Oman](https://apps.apple.com/om/app/my-vodafone-oman/id1589071343)** · Telecom | Technical leadership across architecture, implementation, code quality, and release delivery. | Led the live iOS/Android app's **migration from native to React Native and Expo**. |
 | **[Musaned](https://apps.apple.com/sa/app/musaned-domestic-labor/id1659263483)** · GovTech | Mobile architecture and leadership of a five-person engineering pod at Tamkeen Technology. | Scaled from **50K to 200K+ downloads**, with **99.5% crash-free sessions** and **28% faster cold starts**. |
 | **[Homzmart](https://apps.apple.com/us/app/homzmart/id1533578928)** · Commerce | Built the React Native app from scratch and led mobile delivery, checkout, testing, and release pipelines. | Scaled to **2M+ users**, reached **98.7% crash-free sessions**, and reduced cart abandonment by **15%**. |
+| **[Calo](https://apps.apple.com/eg/app/calo/id1497894777)** · Health & Food | React Native engineering for the meal-subscription platform, GraphQL query optimization, and release delivery with Zustand, CodePush, and Firebase. | Supported **500K+ monthly active users**, reduced API latency by **35%**, and shipped **12 major releases in six months**. |
 
 **[See more projects, screenshots, and store links →](https://abdulrahman-afify-portfolio.vercel.app/)**
 
