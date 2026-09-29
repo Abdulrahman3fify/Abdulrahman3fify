@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Abdulrahman Afify — Senior Mobile Engineer</title>
+<desc id="desc">React Native, React and TypeScript. From architecture to the App Store.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#101D2D"/><stop offset="1" stop-color="#163944"/></linearGradient>
+<linearGradient id="screen" x1="958" y1="65" x2="1114" y2="312" gradientUnits="userSpaceOnUse"><stop stop-color="#244C56"/><stop offset="1" stop-color="#142D3C"/></linearGradient>
+</defs>
+<rect width="1280" height="360" rx="20" fill="url(#bg)"/>
+<path d="M830 0V360M910 0V360M990 0V360M1070 0V360M1150 0V360M1230 0V360M800 60H1280M800 140H1280M800 220H1280M800 300H1280" stroke="#90C7C7" stroke-opacity=".07"/>
+<circle cx="1065" cy="178" r="139" stroke="#8EDAC2" stroke-opacity=".12"/>
+<circle cx="1065" cy="178" r="177" stroke="#8EDAC2" stroke-opacity=".07"/>
+<rect x="60" y="51" width="32" height="4" rx="2" fill="#ABEDC6"/>
+<text x="108" y="60" fill="#ABEDC6" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">MOBILE ENGINEERING</text>
+<text x="58" y="143" fill="#F5F8FA" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="700" letter-spacing="-2">Abdulrahman Afify</text>
+<text x="61" y="193" fill="#C1D5DF" font-family="Arial, Helvetica, sans-serif" font-size="26">Senior Mobile Engineer</text>
+<text x="61" y="241" fill="#F5F8FA" font-family="Arial, Helvetica, sans-serif" font-size="22">From architecture to the App Store.</text>
+<text x="61" y="309" fill="#8FB0BD" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="1">REACT NATIVE   /   REACT   /   TYPESCRIPT</text>
+<g transform="rotate(8 1060 180)">
+<rect x="967" y="39" width="170" height="286" rx="30" fill="#0B1725" stroke="#6C929C" stroke-width="2"/>
+<rect x="977" y="49" width="150" height="266" rx="22" fill="url(#screen)"/>
+<rect x="1027" y="58" width="50" height="7" rx="3.5" fill="#0B1725"/>
+<rect x="996" y="87" width="36" height="5" rx="2.5" fill="#9ABAC5"/>
+<rect x="996" y="105" width="103" height="9" rx="4.5" fill="#E2EEF0"/>
+<rect x="996" y="129" width="111" height="72" rx="10" fill="#ABEDC6"/>
+<path d="M1013 178L1036 160L1057 169L1090 148" stroke="#16423D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="996" y="215" width="49" height="41" rx="8" fill="#54747D"/>
+<rect x="1058" y="215" width="49" height="41" rx="8" fill="#54747D"/>
+<rect x="996" y="271" width="111" height="23" rx="8" fill="#315663"/>
+<rect x="1031" y="280" width="41" height="4" rx="2" fill="#BCD6DE"/>
+</g>
+<rect x="913" y="255" width="81" height="42" rx="12" fill="#ABEDC6"/>
+<text x="928" y="283" fill="#173F3B" font-family="monospace" font-size="24" font-weight="700">&lt;/&gt;</text>
+</svg>
