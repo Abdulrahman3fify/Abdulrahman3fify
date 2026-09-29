@@ -55,11 +55,13 @@ My work spans building apps from scratch, leading engineering teams, migrating l
 
 ## Explore the work
 
+**[React Native sample app](https://github.com/Abdulrahman3fify/rn-storefront-sample)** — An Expo storefront written to show how I structure mobile code: feature-based modules, TanStack Query and Zustand, validated APIs, tests, CI, and the trade-offs behind each decision.
+
 **[Portfolio website](https://abdulrahman-afify-portfolio.vercel.app/)** — Selected products, career history, screenshots, and links to released apps.
 
 **[Portfolio source](https://github.com/Abdulrahman3fify/portfolio)** — The React, TypeScript, and Vite code behind the site.
 
-Most of my production work is in private client repositories. The portfolio presents the projects and outcomes I can share publicly.
+Most of my production work is in private client repositories. The portfolio presents the projects and outcomes I can share publicly, and the sample app shows how I write the code.
 
 ---
 
